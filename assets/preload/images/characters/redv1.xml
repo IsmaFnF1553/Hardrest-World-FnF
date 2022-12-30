@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redv1.png">
+<SubTexture name="redv1 Up0000" x="0" y="0" width="648" height="874" frameX="-58" frameY="0" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0000" x="648" y="0" width="561" height="759" frameX="-88" frameY="-84" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0001" x="1209" y="0" width="595" height="700" frameX="-78" frameY="-144" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0002" x="1804" y="0" width="583" height="686" frameX="-73" frameY="-157" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0003" x="0" y="874" width="580" height="723" frameX="-77" frameY="-120" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0004" x="580" y="874" width="575" height="744" frameX="-80" frameY="-99" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0005" x="1155" y="874" width="565" height="754" frameX="-86" frameY="-89" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Idle0006" x="1720" y="874" width="563" height="760" frameX="-88" frameY="-83" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Up0001" x="0" y="1634" width="632" height="833" frameX="-72" frameY="-11" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Up0002" x="632" y="1634" width="626" height="798" frameX="-67" frameY="-46" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Down0000" x="1258" y="1634" width="842" height="680" frameX="-13" frameY="-163" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Down0001" x="2100" y="1634" width="855" height="668" frameX="-19" frameY="-175" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Down0002" x="0" y="2467" width="845" height="707" frameX="-9" frameY="-136" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Right0000" x="845" y="2467" width="666" height="769" frameX="-10" frameY="-75" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Right0001" x="1511" y="2467" width="613" height="769" frameX="-24" frameY="-75" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Right0002" x="2124" y="2467" width="556" height="773" frameX="-78" frameY="-71" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Left0000" x="0" y="3240" width="595" height="793" frameX="-58" frameY="-51" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Left0001" x="595" y="3240" width="546" height="768" frameX="-89" frameY="-76" frameWidth="1733" frameHeight="1291" />
+<SubTexture name="redv1 Left0002" x="1141" y="3240" width="554" height="766" frameX="-89" frameY="-78" frameWidth="1733" frameHeight="1291" />
+</TextureAtlas>

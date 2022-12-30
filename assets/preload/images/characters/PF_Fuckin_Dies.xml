@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PF Fuckin Dies.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PF  Deaded SCREAMINGDYING0000" x="0" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0001" x="599" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0002" x="1198" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0003" x="1797" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0004" x="2396" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0005" x="2995" y="0" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0006" x="0" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0007" x="599" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0008" x="1198" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0009" x="1797" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0010" x="2396" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0011" x="2995" y="487" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0012" x="0" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0013" x="599" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0014" x="1198" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0015" x="1797" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0016" x="2396" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0017" x="2995" y="974" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0018" x="0" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0019" x="599" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0020" x="1198" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0021" x="1797" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0022" x="2396" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0023" x="2995" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0024" x="2995" y="1461" width="599" height="487"/>
+	<SubTexture name="PF  Deaded SCREAMINGDYING0025" x="2995" y="1461" width="599" height="487"/>
+	<SubTexture name="PF Deaded Confirm0000" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0001" x="551" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0002" x="1102" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0003" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0004" x="1653" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0005" x="1653" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0006" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0007" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0008" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0009" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0010" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0011" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0012" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0013" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded Confirm0014" x="0" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0000" x="1653" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0001" x="1653" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0002" x="2204" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0003" x="2755" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0004" x="2755" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0005" x="2204" y="1948" width="551" height="478"/>
+	<SubTexture name="PF Deaded loop0006" x="1653" y="1948" width="551" height="478"/>
+</TextureAtlas>
